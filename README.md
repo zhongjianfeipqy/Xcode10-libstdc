@@ -1,7 +1,7 @@
 # Xcode10-libstdc
 Xcode10 libstdc++.6.0.9、libstdc++.6、libstdc++
 
-### 每次重装环境都提示缺少文件，并且网上搜到的都是只有一个libstdc++.6.0.9，找的比较麻烦，现在上传到GitHub上，方便下载
+### 每次重装环境xcode都提示缺少文件，并且网上搜到的都是只有一个libstdc++.6.0.9，找的比较麻烦，现在把缺少的libstdc都上传到GitHub上，方便下载
 
 ##### 把文件复制到以下四个目录即可
 
